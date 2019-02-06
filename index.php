@@ -1,4 +1,6 @@
 <<?php 
 
-	echo "Olá, Mundo!"
+	echo "Olá, Tera!"
+
+	echo "Olá, Udemy!"
  ?>
