@@ -1,5 +1,5 @@
 <<?php 
 
-	echo "Olá, Tera!"
+	echo "Olá, Terra!"
 
  ?>
