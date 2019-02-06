@@ -1,6 +1,6 @@
 <<?php 
 
-	echo "Olá, planeta Terra!"
+	echo "Olá, Mundo 123!"
 		
-	echo "Olá, Udemy!";
+	echo "Olá, Hcode!";
  ?>
